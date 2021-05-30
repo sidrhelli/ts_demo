@@ -9,5 +9,5 @@ class Name {
       };
 }
 
-const user: Name = new Name("Murphy");
+const user: Name = new Name("Sergio");
 console.log(user.myName());
